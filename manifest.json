@@ -1,0 +1,27 @@
+{
+  "name": "Harvester Mission Fellowship – Bible",
+  "short_name": "HMFC Bible",
+  "description": "Read, Study, and Grow in God's Word – Harvester Mission Fellowship Church",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0e1117",
+  "theme_color": "#c9a84c",
+  "orientation": "portrait-primary",
+  "scope": "./",
+  "lang": "en",
+  "categories": ["education", "lifestyle"],
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
